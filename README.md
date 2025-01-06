@@ -1,4 +1,4 @@
----
+
 
 ## How to Run Each App  
 
@@ -46,7 +46,6 @@ Welcome to the coding test for the **Full Stack Developer** role. This repositor
 
 You are required to complete both tasks within the provided timeline. These challenges will assess your proficiency with React, React Native, Redux, and advanced development practices.
 
----
 
 ## Repository Structure
 
