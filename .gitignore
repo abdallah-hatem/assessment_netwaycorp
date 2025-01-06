@@ -1,0 +1,4 @@
+react-native-user-list/node_modules/
+react-redux-task-manager/node_modules/
+*.log
+*.env
